@@ -43,7 +43,7 @@ In alternativa, basta connettere il repo alla **Vercel GitHub App** (Vercel Dash
 
 ## GitHub Pages — Documentation
 
-URL: `https://fedcal.github.io/federico-demo-centro-culturale/`
+URL: `https://fedcal.github.io/demo-centro-culturale/`
 
 ### Setup iniziale
 
@@ -53,7 +53,7 @@ URL: `https://fedcal.github.io/federico-demo-centro-culturale/`
 ### Configurazione VitePress
 
 `docs/.vitepress/config.ts`:
-- `base: /federico-demo-centro-culturale/` (subdirectory GH Pages)
+- `base: /demo-centro-culturale/` (subdirectory GH Pages)
 - `cleanUrls: true`
 - Search locale integrato
 - Sidebar + nav configurati

@@ -3,7 +3,7 @@
 ## Struttura cartelle
 
 ```
-federico-demo-centro-culturale/
+demo-centro-culturale/
 ├── api/
 │   └── index.js              # Vercel serverless function entry SSR
 ├── docs/                     # VitePress docs site (questo sito)
