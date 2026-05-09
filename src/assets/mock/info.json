@@ -1,0 +1,72 @@
+{
+  "ragioneSociale": "Associazione Culturale Casa della Cultura Mediterranea APS",
+  "nomeCommerciale": "Casa della Cultura Mediterranea",
+  "tagline": "Eventi, biblioteca, corsi — Trieste",
+  "fondazione": 1978,
+  "indirizzo": {
+    "via": "Via Giulia 12",
+    "citta": "Trieste",
+    "provincia": "TS",
+    "cap": "34121",
+    "regione": "Friuli-Venezia Giulia",
+    "paese": "Italia",
+    "lat": 45.6484,
+    "lng": 13.7768
+  },
+  "contatti": {
+    "telefono": "+39 040 555 1234",
+    "email": "info@casamediterranea-demo.it",
+    "social": {
+      "instagram": "https://instagram.com/casamediterranea_demo",
+      "facebook": "https://facebook.com/casamediterranea_demo"
+    }
+  },
+  "orari": {
+    "lunedi": "Chiuso",
+    "martedi": "10:00 – 13:00 / 15:00 – 20:00",
+    "mercoledi": "10:00 – 13:00 / 15:00 – 20:00",
+    "giovedi": "10:00 – 13:00 / 15:00 – 20:00",
+    "venerdi": "10:00 – 13:00 / 15:00 – 22:00",
+    "sabato": "10:00 – 22:00",
+    "domenica": "10:00 – 18:00"
+  },
+  "spazi": [
+    {
+      "id": "sala-conferenze",
+      "nome": "Sala Conferenze",
+      "capienza": 80,
+      "descrizione": "Sala attrezzata con proiettore, microfono e impianto audio per convegni, presentazioni e concerti da camera.",
+      "prenotabile": true
+    },
+    {
+      "id": "sala-mostre",
+      "nome": "Sala Mostre",
+      "capienza": 120,
+      "descrizione": "Spazio espositivo con illuminazione dedicata per mostre d'arte, fotografia e installazioni.",
+      "prenotabile": true
+    },
+    {
+      "id": "biblioteca",
+      "nome": "Biblioteca",
+      "capienza": 30,
+      "descrizione": "5.000 volumi consultabili in sede. Fondo specializzato in culture mediterranee, storia locale e letteratura italiana contemporanea.",
+      "prenotabile": false
+    }
+  ],
+  "tessera": {
+    "prezzo": 30,
+    "valida": "annuale",
+    "benefici": [
+      "Accesso alla biblioteca",
+      "Sconto 20% su tutti i corsi",
+      "Biglietti eventi a prezzo ridotto",
+      "Prenotazione spazi a tariffa agevolata",
+      "Newsletter mensile con calendario eventi"
+    ]
+  },
+  "metaSeo": {
+    "title": "Casa della Cultura Mediterranea — Eventi, biblioteca, corsi a Trieste",
+    "description": "Centro culturale a Trieste: mostre, concerti, conferenze, corsi di pittura, scrittura, lingue, musica e ceramica. Biblioteca 5.000 volumi. Tessera soci €30/anno.",
+    "keywords": ["centro culturale trieste", "eventi trieste", "corsi trieste", "biblioteca trieste", "associazione culturale trieste"]
+  }
+}

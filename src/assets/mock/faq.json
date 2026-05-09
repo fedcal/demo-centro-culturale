@@ -1,0 +1,36 @@
+{
+  "faq": [
+    {
+      "domanda": "Come funziona la tessera soci?",
+      "risposta": "La tessera soci costa €30 all'anno ed è valida dal 1° gennaio al 31 dicembre. Dà diritto a: sconto del 20% su tutti i corsi, biglietti eventi a prezzo ridotto, accesso alla biblioteca con prestito libri, prenotazione spazi a tariffa agevolata e ricezione della newsletter mensile con il calendario aggiornato."
+    },
+    {
+      "domanda": "Come posso iscrivermi a un corso?",
+      "risposta": "L'iscrizione ai corsi avviene tramite il modulo online nella pagina Corsi, oppure direttamente in sede durante gli orari di apertura. I corsi hanno posti limitati (massimo 8-15 partecipanti) per garantire un'attenzione personalizzata. La quota mensile si paga il primo giorno utile di ogni mese."
+    },
+    {
+      "domanda": "Come posso prenotare gli spazi (sala conferenze, sala mostre)?",
+      "risposta": "Gli spazi sono disponibili per associazioni, professionisti e privati. Per prenotare inviare una mail a info@casamediterranea-demo.it con date, durata e descrizione dell'evento. Le tariffe variano a seconda della durata e del tipo di utilizzo; i soci hanno una tariffa agevolata del 30%."
+    },
+    {
+      "domanda": "Il centro è accessibile alle persone con disabilità?",
+      "risposta": "Sì. Il piano terra (sala mostre, biblioteca, ufficio) è completamente accessibile con rampe e servizi dedicati. La sala conferenze al primo piano è raggiungibile con l'ascensore. Per esigenze specifiche contattarci prima della visita."
+    },
+    {
+      "domanda": "Come posso rimanere aggiornato sul calendario degli eventi?",
+      "risposta": "Puoi seguirci sui social (Instagram e Facebook) per aggiornamenti quotidiani, o iscriverti alla newsletter mensile (disponibile per i soci). Il calendario completo è sempre aggiornato nella pagina Eventi del sito."
+    },
+    {
+      "domanda": "È possibile acquistare biglietti per gli eventi online?",
+      "risposta": "Per gli eventi a pagamento è possibile prenotare il proprio posto tramite la pagina Contatti o chiamando direttamente la segreteria. Il pagamento avviene in loco il giorno dell'evento. Per i grandi eventi con capienza limitata consigliamo di prenotare con anticipo."
+    },
+    {
+      "domanda": "Posso fare una donazione o diventare sostenitore del centro?",
+      "risposta": "Assolutamente sì. Come APS (Associazione di Promozione Sociale), siamo destinatari del 5x1000: basta indicare il nostro CF nella dichiarazione dei redditi. Per donazioni libere o sponsorizzazioni di eventi contattaci alla segreteria. Ogni contributo va direttamente alla programmazione culturale."
+    },
+    {
+      "domanda": "I corsi sono attivi tutto l'anno?",
+      "risposta": "I corsi seguono il calendario accademico: partono a ottobre e terminano a maggio/giugno con una mostra o saggio finale. Alcuni corsi hanno anche sessioni estive intensive (luglio). Le iscrizioni per il nuovo anno si aprono a settembre."
+    }
+  ]
+}
